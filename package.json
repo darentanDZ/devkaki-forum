@@ -11,10 +11,16 @@
     "build": "cd frontend && npm run build",
     "start": "cd backend && npm start"
   },
-  "keywords": ["forum", "reddit", "developer", "community"],
+  "keywords": [
+    "forum",
+    "reddit",
+    "developer",
+    "community"
+  ],
   "author": "Developer Kaki",
   "license": "MIT",
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.19",
     "concurrently": "^8.2.2"
   }
 }
